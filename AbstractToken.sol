@@ -2,6 +2,7 @@ pragma solidity ^0.4.0;
 
 // Title AbstractToken.sol
 // Implements ERC 20 Token standard: https://github.com/ethereum/EIPs/issues/20
+// Credit - https://github.com/ConsenSys/singulardtv-contracts
 
 // @title Abstract token contract - Functions to be implemented by token contracts.
 // @author Stefan George - <stefan.george@consensys.net>
