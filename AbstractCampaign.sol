@@ -2,6 +2,7 @@ pragma solidity ^0.4.0;
 
 // Title AbstractCampaign.sol
 // Customize @author Rocky Fikki - <rocky@fikki.net>
+// Credit - https://github.com/ConsenSys/singulardtv-contracts
 
 contract Campaign {
     // @notice the campaign name
