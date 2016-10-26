@@ -10,6 +10,7 @@ import "AbstractSafecontractsTREXCrowdfunding.sol";
 // @title Token contract - Implements token issuance.
 // @author Stefan George - <stefan.george@consensys.net>
 // Customize @author Rocky Fikki - <rocky@fikki.net>
+// Credit - https://github.com/ConsenSys/singulardtv-contracts
 
 contract SafecontractsTREXToken is StandardToken {
 
