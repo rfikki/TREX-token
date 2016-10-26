@@ -8,6 +8,8 @@ import "AbstractSafecontractsTREXFund.sol";
 // @title Crowdfunding contract - Implements crowdfunding functionality.
 // @author Stefan George - <stefan.george@consensys.net>
 // Customize @author Rocky Fikki - <rocky@fikki.net>
+// Credit - https://github.com/ConsenSys/singulardtv-contracts
+
 contract SafecontractsTREXCrowdfunding {
 
     /*
